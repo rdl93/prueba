@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1,Матч! Премьер SD (Персик)
+http://persik.by/stream/7504/377885/284.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://83.222.205.65:8080/mpremier_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=ruJ3OSf65E
+#EXTINF:-1,МАТЧ ПРЕМЬЕР (udp)
+http://91.210.251.19:4866/udp/239.0.1.56:4000
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://212.29.231.242:8080/btv_3/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,Матч! Премьер HD (mpd)
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1,Матч! Футбол 1 HD (Персик)
+http://persik.by/stream/7504/377885/10266.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD (udp)
+http://91.210.251.19:4866/udp/239.0.20.2:4000
+#EXTINF:-1,Матч! Футбол 1 HD
+http://37.187.28.95:2022/match_futbol1_HD/mpegts
+#EXTINF:-1,Матч! Футбол 1
+http://212.29.231.242:8080/btv_183/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 (udp)
+http://91.210.251.19:4866/udp/239.0.1.38:4000
+#EXTINF:-1,Матч! Футбол 1 (mpd)
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1,Матч! Футбол 2 HD (Персик)
+http://persik.by/stream/7504/377885/10267.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD (udp)
+http://91.210.251.19:4866/udp/239.0.20.13:4000
+#EXTINF:-1,Матч! Футбол 2 HD
+http://37.187.28.95:2022/Matc_futbol_2_hd/mpegts
+#EXTINF:-1,Матч! Футбол 2
+http://212.29.231.242:8080/btv_184/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 (udp)
+http://91.210.251.19:4866/udp/239.0.1.109:4000
+#EXTINF:-1,Матч! Футбол 2 (mpd)
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1,Матч! Футбол 3 HD
+http://37.187.28.95:2022/Matc_futbol_3_hd/mpegts
+#EXTINF:-1,Матч! Футбол 3 SD (Персик)
+http://persik.by/stream/7504/377885/10218.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://212.29.231.242:8080/btv_282/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 (udp)
+http://91.210.251.19:4866/udp/239.0.1.144:4000
+#EXTINF:-1,Матч! Футбол 3 (mpd)
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:0,Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Матч!
+http://193.176.179.38:8087/match/index.m3u8
+#EXTINF:-1,Шахтар ТВ (Украина)
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=6eR1iRW3yf
+#EXTINF:-1,Шахтёр ТВ HD (Украина) (udp)
+http://91.210.251.19:4866/udp/239.0.2.105:4000
+#EXTINF:-1,Xsport+ HD (Украина)
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=Cdd1X2st6j
+#EXTINF:-1,Sport 1
+http://212.115.255.196/Jfd85Hf/sport1.m3u8
+#EXTINF:0,Sport 2
+http://50.7.231.221:8081/151/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Спорт 2 Украина
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=83oBeu2A0S
+#EXTINF:-1,Setanta Sports 1 HD
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=aD3sl16N6p
+#EXTINF:-1,SETANTA SPORT 1 (Грузия)
+http://45.143.108.110:8000/play/a0gl/index.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://50.7.231.221:8081/213/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Setanta Sports 2 HD
+https://bal.varcdn1.ru/lb/setanta2/index.m3u8
+#EXTINF:-1,SETANTA SPORT 2 (Грузия)
+http://45.143.108.110:8000/play/a0cw/index.m3u8
+#EXTINF:-1,Setanta Sports+ Ukraine
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=h2olpt6ItU
+#EXTINF:-1,Setanta Ukraine + HD
+https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8
+#EXTINF:-1,Setanta Eurasia+ (Грузия)
+http://45.143.108.110:8000/play/a0qb/index.m3u8
+#EXTINF:-1,Футбол SD (Персик)
+http://persik.by/stream/7504/377885/440.m3u8
+#EXTINF:-1,Телеканал Футбол
+http://37.187.28.95:2022/futbol/mpegts
+#EXTINF:-1,Футбол
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=sHqt15cD2D
+#EXTINF:-1,Футбольный
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=Eo9ywaYRn2
+#EXTINF:-1,Спортивный HD
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=UvGCZ084En
+#EXTINF:-1,Спортивный
+http://45.143.108.110:8000/play/a0qs/index.m3u8
+#EXTINF:-1,Хоккейный HD
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=ZwhFEOoTmU
+#EXTINF:-1,Беларусь 5 HD (Персик)
+http://persik.by/stream/7504/377885/10408.m3u8
+#EXTINF:-1,Наш спорт 7
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Nash_khokkey7.m3u8&serviceArea=MSK-SA-1
+#EXTINF:-1,Матч! Арена HD
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://91.210.251.19:4866/udp/239.0.20.15:4000
+#EXTINF:-1,Матч! Арена
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=BpGzr4dgRf
+#EXTINF:-1,Матч! Арена
+http://212.29.231.242:8080/btv_41/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,МАТЧ! АРЕНА
+http://91.210.251.19:4866/udp/239.0.1.123:4000
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://91.210.251.19:4866/udp/239.0.1.34:4000
+#EXTINF:-1,Матч! Боец
+http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:0,Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1,МАТЧ! СТРАНА
+http://91.210.251.19:4866/udp/239.0.1.89:4000
+#EXTINF:-1,Матч! Страна
+http://st1.astra-uk.ru:81/a163c248a70cc2f46b9dca5b9ba140f1/playlist.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://91.210.251.19:4866/udp/239.0.20.8:4000
+#EXTINF:-1,Матч! Игра
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=uMJsvhAxh5
+#EXTINF:-1,МАТЧ! ИГРА
+http://91.210.251.19:4866/udp/239.0.1.124:4000
+#EXTINF:-1,Матч! Игра
+http://46.174.83.66/Match_Igra/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1,Матч! Наш спорт
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1,Мир Баскетбола
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=HspyphDXnv
+#EXTINF:-1,Мир Баскетбола
+http://50.7.231.221:8081/234/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мир Баскетбола
+http://46.174.83.66/MirBasketbola/mpegts
+#EXTINF:-1,Sport Астрахань
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Старт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,Turkmen Спорт HD
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8?telegramm=yossotv
+#EXTINF:-1,Extreme Sports
+http://91.210.251.19:4866/udp/239.0.1.66:4000
+#EXTINF:-1,Fightbox  rus
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=lGaYVkHezP
+#EXTINF:-1,FightBOX HD
+http://212.115.255.196/Jfd85Hf/fightboxhd.m3u8
+#EXTINF:0,UDAR
+http://50.7.231.221:8081/232/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Бокс ТВ
+https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+#EXTINF:-1,Бокс ТВ
+http://91.185.3.218:4000/play/609
+#EXTINF:-1,Eurosport 4K HD (Забава) 
+http://dmitry-tv.ml/hls/zabava/CH_EUROSPORT4KHD.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://st1.astra-uk.ru:81/27d3f771f722037356f28ab60e1eb7db/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://tv.streams.baikal-telecom.net/Eurosport1/mpegts
+#EXTINF:-1,EUROSPORT 1 HD
+http://91.210.251.19:4866/udp/239.0.20.10:4000
+#EXTINF:-1,Eurosport 1 HD
+http://212.29.231.242:8080/btv_20/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,Eurosport 1
+http://91.210.251.19:4866/udp/239.0.1.35:4000
+#EXTINF:-1,Eurosport 2
+http://212.29.231.242:8080/btv_42/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+#EXTINF:-1,Eurosport 2
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1,Eurosport 2 HD
+http://st1.astra-uk.ru:81/4c0638123e05b9370674f3a7645374ef/playlist.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://tv.streams.baikal-telecom.net/Eurosport2/mpegts
+#EXTINF:-1,KHL Prime HD
+http://tv.streams.baikal-telecom.net/KHL_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,KHL Prime
+http://st1.astra-uk.ru:81/d9e765c5b8f65c43507d4dd00b4b1a7b/playlist.m3u8
+#EXTINF:-1,KHL HD
+http://46.174.83.66/KHL_HD/mpegts
+#EXTINF:-1,Viasat Sport HD
+http://212.115.255.196/Jfd85Hf/viasatsporthd.m3u8
+#EXTINF:0,Viasat Sport HD
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1,Viasat Sport
+http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
+#EXTINF:-1,Лучшие моменты ЛЧ HD
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,Лучшие моменты ЛЧ 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,A21 Network
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1, AdjaraSport 1 HD GE
+https://5.178.129.16/adjarasport_live/LiveTV/mono.m3u8
+#EXTINF:-1,ajarasport 1 (Грузия)
+http://45.143.108.110:8000/play/a0mv/index.m3u8
+#EXTINF:-1,ajarasport 2 (Грузия)
+http://45.143.108.110:8000/play/a0o7/index.m3u8
+#EXTINF:-1,ABU DHABI SPORT 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
+#EXTINF:-1,ABU DHABI SPORT 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+#EXTINF:-1,ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
+#EXTINF:-1,Arena 1
+http://46.29.169.15:4001/play/a002/index.m3u8
+#EXTINF:-1,Arena Premium 1
+http://46.29.169.15:4001/play/a00g/index.m3u8
+#EXTINF:-1,Arena 2
+http://46.29.169.15:4001/play/a003/index.m3u8
+#EXTINF:-1,Arena Premium 2
+http://46.29.169.15:4001/play/a00h/index.m3u8
+#EXTINF:-1,Arena 3
+http://46.29.169.15:4001/play/a004/index.m3u8
+#EXTINF:-1,Arena Premium 3
+http://46.29.169.15:4001/play/a00i/index.m3u8
+#EXTINF:-1,BEIN SPORTS USA
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1501
+#EXTINF:-1,Bein Sport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1,Beinsport English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+#EXTINF:-1,Bein Sports 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1,Beinsport English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1,Bein Sports 3
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1,Beinsport English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1,Bein Sports 4
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1,BT Sport 1 FHD
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BARCA TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:-1,CBC Sport HD
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1,DAZN F1 
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
+#EXTINF:-1,FC REAL MADRID TV HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1,Fox Sports
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+#EXTINF:-1,Football Daily
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1,DIGI Sport 1 HU
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=wZeVcxwHE9
+#EXTINF:-1,DIGI Sport 2 HU
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=FKnNPu6YFn
+#EXTINF:-1,DIGI Sport 3 HU
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=Wd7tPlWxLb
+#EXTINF:-1,Canal+ Sport 2
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=sNczPaAyao
+#EXTINF:-1,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,ESPN 1
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=vkdsmp1uEa
+#EXTINF:-1,ESPN 2
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=BpECfb8d1T
+#EXTINF:-1,Fox HD sport 4 NL
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=wyys6HE9Xb
+#EXTINF:-1,SSC 1 HD
+https://ssc-5-ak.akamaized.net:443/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+#EXTINF:-1,SPORT TV 1 HD PT
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=p1Wx3YoVPg
+#EXTINF:-1,SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD PT
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=Z4hzKXeaKB
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+https://sh1708063.b.had.su/ParsXML/evroshe_ua_no_save_fav.php?name=HdVbPdXlrU
+#EXTINF:-1,SK1 HD
+http://46.29.169.15:4001/play/a001/index.m3u8
+#EXTINF:-1,SK1
+http://194.15.225.98:8000/play/a2qu
+#EXTINF:-1,SK2
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:-1,SK3
+http://194.15.225.98:8000/play/a2qt
+#EXTINF:-1,Sharjah Sports
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1,Red Booll HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1,Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,Horizon Sports
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1,MMA Jankie HD
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1,MySports 1 HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1,О2 TV Sport HD
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1,Oman Sport
+http://partne.cdn.mangomolo.com/omsport/omsport.stream_720p/playlist.m3u8
+#EXTINF:-1,Stadium (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1, KBP Sports (720p)
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+
+
+
+
